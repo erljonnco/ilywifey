@@ -1,8 +1,8 @@
 {
-  "latestVersion": "09.02f",
-  "latestVersionCode": "3",
-  "url": "https://github.com/erljonnco/ilywifey/blob/main/main/09.02f.apk?raw=true",
+  "latestVersion": "09.02g",
+  "latestVersionCode": "4",
+  "url": "https://github.com/erljonnco/ilywifey/blob/main/main/09.02g.apk?raw=true",
   "releaseNotes": [
-    "- Added In-app Updater"
+    "- Removed Login Username and Password"
   ]
 }
